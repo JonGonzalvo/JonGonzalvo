@@ -58,22 +58,22 @@ I spent years learning quality assurance the hard way: scattered resources, outd
 ### 🧪 Test Cases
 Professional test case documentation for a demo e-commerce application — covering login, search, cart, and checkout flows.
 
-📁 [`/test-cases`](./test-cases)
+📁 [`/test-cases`](https://github.com/JonGonzalvo/JonGonzalvo/tree/main/test-cases)
 
 ### 🐛 Bug Reports
 Structured defect reports with severity, priority, steps to reproduce, and expected vs. actual results.
 
-📁 [`/bug-reports`](./bug-reports)
+📁 [`/bug-reports`](https://github.com/JonGonzalvo/JonGonzalvo/tree/main/bug-reports)
 
 ### 🤖 API Testing
 Postman collection for the ReqRes public API — 12 requests with assertions, environment variables, and pre-request scripts.
 
-📁 [`/api-testing`](./api-testing)
+📁 [`/api-testing`](https://github.com/JonGonzalvo/JonGonzalvo/tree/main/api-testing)
 
 ### ⚙️ Automation
 Cypress and Selenium test suites for login, search, and cart functionality.
 
-📁 [`/automation`](./automation)
+📁 [`/automation`](https://github.com/JonGonzalvo/JonGonzalvo/tree/main/automation)
 
 ---
 
